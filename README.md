@@ -4,4 +4,4 @@ This repository is intented to track issues with the [Deckard's Dream](http://de
 
 To participate in the discussions you'll need to create a Github user, but that's all about it, you don't need to know about code or how to use git, simply navigate to the [issues](https://github.com/ffont/ddrm-issues/issues) and you'll find all information there.
 
-> [Go to Issues tab](https://github.com/ffont/ddrm-issues/issues) <
+[Go to Issues tab / Start here](https://github.com/ffont/ddrm-issues/issues)
