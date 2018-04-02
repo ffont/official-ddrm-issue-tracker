@@ -6,5 +6,5 @@ To participate in the discussions you'll need to create a Github user, but that'
 
 Also make sure to check the [issues that have been already solved](https://github.com/ffont/ddrm-issues/issues?q=is%3Aissue+is%3Aclosed) before opening a new one.
 
-[Go to open issues tab section](https://github.com/ffont/ddrm-issues/issues?q=is%3Aissue+is%3Aopen)
-[Go to closed issues tab section](https://github.com/ffont/ddrm-issues/issues?q=is%3Aissue+is%3Aclosed)
+ * [Go to open issues section](https://github.com/ffont/ddrm-issues/issues?q=is%3Aissue+is%3Aopen)
+ * [Go to solved issues section](https://github.com/ffont/ddrm-issues/issues?q=is%3Aissue+is%3Aclosed)
